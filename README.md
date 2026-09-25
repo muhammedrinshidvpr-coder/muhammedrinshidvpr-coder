@@ -9,9 +9,9 @@ to Supabase-backed marketplaces with real users.
 - Full-Stack Development — web apps end-to-end with Next.js, React, Supabase, PostgreSQL
 - AI Consulting & Training — advising businesses on AI adoption, training teams in practical AI literacy
 
-**Currently**
-- AI Automation Engineer @ Azmora (Jun–Aug 2026)
+**Experience**
 - Founder & CEO @ CosmIQ (since 2025)
+- AI Automation Engineer @ Azmora (Jun–Aug 2026)
 
 ---
 
@@ -36,6 +36,10 @@ to Supabase-backed marketplaces with real users.
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 
+**Desktop**
+![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=flat-square&logo=tauri&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+
 **Cloud & Tools**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -50,8 +54,9 @@ to Supabase-backed marketplaces with real users.
 | Project | What it does | Links |
 |---|---|---|
 | **CampusTrade** | Campus marketplace for TKM students — WhatsApp deep-linking, client-side image compression pipeline (5MB → <200KB), RLS-secured Supabase backend | [Live](https://campustrade-cosmiq.vercel.app/) · [Code](https://github.com/muhammedrinshidvpr-coder/campus-trade-v2) |
-| **Pragathi KEAM Portal** | College-eligibility predictor over 1,500+ rows of historical KEAM cutoff data — adopted as the official tool for the TKMCE Pragathi Help Desk, 2026 | [Code](https://github.com/muhammedrinshidvpr-coder/pragathi-keam-portal) |
+| **Pragathi KEAM Portal** | College-eligibility predictor over 1,500+ rows of historical KEAM cutoff data — adopted as the official tool for the TKMCE Pragathi Help Desk, 2026 | [Live](https://pragathi-keam-portal.lovable.app/) · [Code](https://github.com/muhammedrinshidvpr-coder/pragathi-keam-portal) |
 | **AI SDR & Meeting Intelligence** | Self-hosted n8n + Gemini 1.5 Pro pipeline automating lead research, CRM sync, cold outreach, and meeting-note parsing — ~90% faster lead processing | [Code](https://github.com/muhammedrinshidvpr-coder/ai-meeting-architect) |
+| **BlinkBreak** | Calm, private Windows tray app reminding you to blink, look away and move (20-20-20 rule) — light and dark themes | [Download](https://github.com/muhammedrinshidvpr-coder/blinkbreak/releases/latest) · [Code](https://github.com/muhammedrinshidvpr-coder/blinkbreak) |
 | **CosmIQ Sync** | Zero-login workspace for real-time file/code transfer via 5-digit session keys, with scheduled pg_cron cleanup | [Live](https://cosmiq-sync.vercel.app/) · [Code](https://github.com/muhammedrinshidvpr-coder/cosmiq-sync) |
 | **RentVibe** | Rental & sales platform connecting local businesses with consumers, admin-curated inventory QC | [Live](https://rentvibe.vercel.app/) · [Code](https://github.com/muhammedrinshidvpr-coder/rentvibe-landing) |
 
