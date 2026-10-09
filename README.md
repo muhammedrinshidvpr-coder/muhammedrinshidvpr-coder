@@ -1,68 +1,26 @@
-### Muhammed Rinshid V P
-Founder & CEO at [CosmIQ](https://github.com/muhammedrinshidvpr-coder) · AI automation & full-stack developer · Kerala, India (Remote)
+## Hi, I'm Rinshid 👋
 
-I build production automation pipelines and full-stack web apps — from LLM-orchestrated workflows
-to Supabase-backed marketplaces with real users.
+I'm a Computer Science student from Kerala and the founder of CosmIQ. I like building things people actually use, mostly full-stack web apps and AI automation. I've also done professional work building n8n automations on AWS.
 
-**What I do**
-- AI Automation & Workflows — production n8n workflows, LLM integrations, AWS-deployed pipelines
-- Full-Stack Development — web apps end-to-end with Next.js, React, Supabase, PostgreSQL
-- AI Consulting & Training — advising businesses on AI adoption, training teams in practical AI literacy
+Right now I'm looking for work opportunities in software development. If you have something in mind, email me at muhammedrinshidvpr@gmail.com.
 
-**Experience**
-- Founder & CEO @ CosmIQ (since 2025)
-- AI Automation Engineer @ Azmora (Jun–Aug 2026)
+### What I work with
 
----
+- **Web apps:** React, Next.js, TypeScript, Tailwind CSS, Supabase, PostgreSQL
+- **Automation and AI:** n8n, Gemini API, Python
+- **Other:** C, Rust (Tauri), AWS, Docker, Vercel, Git, Figma
 
-### Stack
+### Some things I've built
 
-**AI & Automation**
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logoColor=white)
-![Gemini API](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-![LLM Orchestration](https://img.shields.io/badge/LLM_Orchestration-333333?style=flat-square)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-333333?style=flat-square)
+- **[Pragathi KEAM Portal](https://pragathi-keam-portal.lovable.app/)**: a college predictor built on 1,500+ rows of past KEAM cutoffs. It's the official predictor for the Pragathi Help Desk at TKM College of Engineering (2026). [Code](https://github.com/muhammedrinshidvpr-coder/pragathi-keam-portal)
+- **[BlinkBreak](https://github.com/muhammedrinshidvpr-coder/blinkbreak/releases/latest)**: a small Windows app that reminds you to blink, look away and move during long screen sessions (the 20-20-20 rule). Built with Tauri, Rust and React. [Code](https://github.com/muhammedrinshidvpr-coder/blinkbreak)
+- **[CampusTrade](https://campustrade-cosmiq.vercel.app/)**: a buy-and-sell marketplace for students at my college. Photos are compressed in the browser (5 MB down to under 200 KB) before upload. [Code](https://github.com/muhammedrinshidvpr-coder/campus-trade-v2)
+- **[CosmIQ Sync](https://cosmiq-sync.vercel.app/)**: move code and screenshots from a lab computer to your own device with a short room code. No login needed. [Code](https://github.com/muhammedrinshidvpr-coder/cosmiq-sync)
+- **AI Meeting Architect**: an n8n and Gemini pipeline that researches leads, updates the CRM and pulls notes out of meetings. [Code](https://github.com/muhammedrinshidvpr-coder/ai-meeting-architect)
+- **[RentVibe](https://rentvibe.vercel.app/)**: a rental and sales site for local businesses, where an admin checks listings before they go live. [Code](https://github.com/muhammedrinshidvpr-coder/rentvibe-landing)
 
-**Frontend**
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+There's more about these on my [portfolio](https://rinshid-portfolio.vercel.app/), including what didn't work and what I learned.
 
-**Backend & Data**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+### Find me
 
-**Desktop**
-![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=flat-square&logo=tauri&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-
-**Cloud & Tools**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-black?style=flat-square&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-
----
-
-### Featured projects
-
-| Project | What it does | Links |
-|---|---|---|
-| **CampusTrade** | Campus marketplace for TKM students — WhatsApp deep-linking, client-side image compression pipeline (5MB → <200KB), RLS-secured Supabase backend | [Live](https://campustrade-cosmiq.vercel.app/) · [Code](https://github.com/muhammedrinshidvpr-coder/campus-trade-v2) |
-| **Pragathi KEAM Portal** | College-eligibility predictor over 1,500+ rows of historical KEAM cutoff data — adopted as the official tool for the TKMCE Pragathi Help Desk, 2026 | [Live](https://pragathi-keam-portal.lovable.app/) · [Code](https://github.com/muhammedrinshidvpr-coder/pragathi-keam-portal) |
-| **AI SDR & Meeting Intelligence** | Self-hosted n8n + Gemini 1.5 Pro pipeline automating lead research, CRM sync, cold outreach, and meeting-note parsing — ~90% faster lead processing | [Code](https://github.com/muhammedrinshidvpr-coder/ai-meeting-architect) |
-| **BlinkBreak** | Calm, private Windows tray app reminding you to blink, look away and move (20-20-20 rule) — light and dark themes | [Download](https://github.com/muhammedrinshidvpr-coder/blinkbreak/releases/latest) · [Code](https://github.com/muhammedrinshidvpr-coder/blinkbreak) |
-| **CosmIQ Sync** | Zero-login workspace for real-time file/code transfer via 5-digit session keys, with scheduled pg_cron cleanup | [Live](https://cosmiq-sync.vercel.app/) · [Code](https://github.com/muhammedrinshidvpr-coder/cosmiq-sync) |
-| **RentVibe** | Rental & sales platform connecting local businesses with consumers, admin-curated inventory QC | [Live](https://rentvibe.vercel.app/) · [Code](https://github.com/muhammedrinshidvpr-coder/rentvibe-landing) |
-
-More case studies (problem/solution/impact breakdowns) on the [portfolio site](https://muhammedrinshidvpr-coder.github.io/rinshid-portfolio/).
-
----
-
-### Elsewhere
-[Portfolio](https://muhammedrinshidvpr-coder.github.io/rinshid-portfolio/) · [LinkedIn](https://linkedin.com/in/rinshidrazaq) · [Email](mailto:muhammedrinshidvpr@gmail.com)
+[Portfolio](https://rinshid-portfolio.vercel.app/) · [LinkedIn](https://linkedin.com/in/rinshidrazaq) · [Email](mailto:muhammedrinshidvpr@gmail.com)
